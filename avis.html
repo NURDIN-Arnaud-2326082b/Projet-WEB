@@ -16,17 +16,20 @@
     </nav>
     <main>
         <h1>Avis sur le site</h1>
-        <section>
-            <h2>Informations personelles</h2>
-            <p><strong> Nom </strong></p>
-            <textarea name="Nom" rows="1" cols="30">Rentrez votre nom ici...</textarea>
-            <p><strong> Prénom </strong></p>
-            <textarea name="Prenom" rows="1" cols="30">Rentrez votre prénom ici...</textarea>
-            <p><strong> Adresse mail</strong></p>
-            <textarea name="Mail" rows="1" cols="40">Rentrez votre adresse mail ici...</textarea>
-        </section>
-        <h2> Commentaires </h2>
-        <textarea name="Avis sur le site" rows="5" cols="50">Laissez votre avis ici...</textarea>
-</main>
+        <form id="form" action="mailto:butgamingfr@gmail.com"  enctype="text/plain">
+            <section>
+                <h2>Informations personelles</h2>
+                <p><strong> Nom </strong></p>
+                <textarea name="Nom" rows="1" cols="30">Rentrez votre nom ici...</textarea>
+                <p><strong> Prénom </strong></p>
+                <textarea name="Prenom" rows="1" cols="30">Rentrez votre prénom ici...</textarea>
+                <p><strong> Adresse mail</strong></p>
+                <textarea name="Mail" rows="1" cols="40">Rentrez votre adresse mail ici...</textarea>
+            </section>
+            <h2> Commentaires </h2>
+            <textarea name="Avis sur le site" rows="5" cols="50">Laissez votre avis ici...</textarea>
+            <input id="bouton" type="submit" name="bouton" value="Cliquer pour envoyer">²
+        </form>
+    </main>
 </body>
 </html>
