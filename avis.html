@@ -2,17 +2,30 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="sousmenu.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Avis</title>
 </head>
 <body>
-    <nav class="menu"> 
-        <ul>
+    <nav> 
+        <ul class="menu">
             <li><a href = "index.html"> Home </a></li>
             <li><a href = "Article.html"> Article le plus récent</a></li>
-            <li><a href = "aproposdenous.html">A propos de nous</a> </li>
-            <li><a href = "nouscontacter.html">Nous contacter</a></li>
-            <li><a href = "avis.html">Avis</a></li>
+            <li class="sousmenu"><a href="">Plus D'articles</a> <!-- faudra mondifier pour que ca fasse un beau truc en css-->
+                <ul class="sousmenu1"> 
+                    <li><a href="Fortnite_Festival.html"> Article sur le mode Festival</a></li>
+                    <li><a href="Rocket_racing.html"> Article sur le mode course</a></li>
+                    <li><a href="Lego_Fortnite.html">Article sur le mode Lego</a></li>
+                </ul>
+            </li>
+            <li class="sousmenu"><a href="">Pour plus d'infos</a>
+                <ul class="sousmenu1">
+                    <li><a href = "aproposdenous.html">A propos de nous</a></li>
+                    <li><a href = "nouscontacter.html">Nous contacter</a></li>
+                    <li><a href = "avis.html">Avis</a></li>
+                </ul>
+            </li>
+        </ul>
     </nav>
     <main>
         <h1>Avis sur le site</h1>
