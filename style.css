@@ -1,0 +1,40 @@
+#Festival{
+    background-image: url(Festival.png);
+    background-size: cover;
+}
+
+#Lego{
+    background-image: url(LegoWorld.png);
+    background-size: 100%;
+}
+
+#Rocket{
+    background-image: url(Rocket.png);
+    background-size: cover;
+}
+
+h1#Festival1 {
+    color: orchid;
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+p {
+    color : white;
+}
+
+h1{
+    color : white;
+}
+
+h2{
+    color : white;
+}
+h3{
+    color : white;
+}
+ul{
+    color : white;
+}
