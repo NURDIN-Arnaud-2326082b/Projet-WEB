@@ -14,7 +14,9 @@
 }
 
 h1#Festival1 {
-    color: orchid;
+    color: white;
+    text-align: center;
+    font-size: 50px;
 }
 
 body{
@@ -27,6 +29,7 @@ p {
 
 h1{
     color : white;
+    text-align: center;
 }
 
 h2{
