@@ -1,26 +1,20 @@
 #Festival{
-    background-image: url(Festival.png);
+    background-image: url(FF/Festival.png);
     background-size: cover;
 }
 
 #Lego{
-    background-image: url(LegoWorld.png);
+    background-image: url(LF/LegoWorld.png);
     background-size: 100%;
 }
 
 #Rocket{
-    background-image: url(Rocket.png);
+    background-image: url(RR/Rocket.png);
     background-size: cover;
 }
 
-h1#Festival1 {
-    color: white;
-    text-align: center;
-    font-size: 50px;
-}
-
 body{
-    background-color: lightskyblue;
+    background-color: darkgray;
 }
 
 p {
@@ -28,16 +22,33 @@ p {
 }
 
 h1{
-    color : white;
+    color: white;
     text-align: center;
+    font-size: 50px;
 }
 
 h2{
     color : white;
 }
+
 h3{
     color : white;
 }
+
 ul{
     color : white;
+}
+
+table,
+td {
+    border: 2px solid black; 
+}
+thead,
+tfoot {
+    background-color: #333;
+    color: white;
+}
+tbody {
+    background-color: rgba(112, 112, 112, 0.897);
+    color: white;
 }
