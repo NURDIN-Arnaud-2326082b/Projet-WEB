@@ -1,1 +1,2 @@
-Le caca de toute la ville
+Projet Web sur Fortnite et ses modes de jeux.
+Fait par GONCALVES RODRIGUES Alex et NURDIN Arnaud
