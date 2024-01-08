@@ -52,3 +52,31 @@ tbody {
     background-color: rgba(112, 112, 112, 0.897);
     color: white;
 }
+
+#ImPre {
+    max-width: 50em;
+    max-height: 50em ; 
+    margin-left: 31%;
+    margin-right: 30%;
+}
+
+#LobbyFFImage {
+    max-width: 65em;
+    max-height: 115em; 
+    margin-left: 31%;
+    margin-right: 30%;
+}
+
+#Discord {
+    width: 15em; 
+    height: 15em;
+}
+
+#Insta {
+    width: 15em; 
+    height: 15em;
+}
+#Gmail {
+    width: 15em; 
+    height: 15em;
+}
