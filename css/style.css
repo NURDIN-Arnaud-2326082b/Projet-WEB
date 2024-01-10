@@ -1,18 +1,3 @@
-#Festival{
-    background-image: url(FF/Festival.png);
-    background-size: cover;
-}
-
-#Lego{
-    background-image: url(LF/LegoWorld.png);
-    background-size: 100%;
-}
-
-#Rocket{
-    background-image: url(RR/Rocket.png);
-    background-size: cover;
-}
-
 body{
     background-color: darkgray;
 }
@@ -39,18 +24,36 @@ ul{
     color : white;
 }
 
-table,
-td {
-    border: 2px solid black; 
+table, td {
+    text-align: center;
+    border: 0px solid black; 
 }
-thead,
-tfoot {
-    background-color: #333;
+thead, tfoot {
+    background-color: darkgray;
     color: white;
 }
 tbody {
-    background-color: rgba(112, 112, 112, 0.897);
+    background-color: darkgray;
     color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+#Festival{
+    background-image: url(FF/Festival.png);
+    background-size: cover;
+}
+
+#Lego{
+    background-image: url(LF/LegoWorld.png);
+    background-size: 100%;
+}
+
+#Rocket{
+    background-image: url(RR/Rocket.png);
+    background-size: cover;
 }
 
 #ImPre {
@@ -66,11 +69,6 @@ tbody {
     margin-left: 31%;
     margin-right: 30%;
 }
-
-footer {
-    text-align: center;
-}
-
 #Discord {
     max-width: 5%; 
     max-height: 5%;
