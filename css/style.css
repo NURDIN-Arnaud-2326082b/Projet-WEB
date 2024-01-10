@@ -41,6 +41,12 @@ footer {
     text-align: center;
 }
 
+.center {
+    margin: 0 auto;
+    width: 650px;
+    display: block;
+}
+
 #Festival{
     background-image: url(FF/Festival.png);
     background-size: cover;
@@ -61,6 +67,12 @@ footer {
     max-height: 50em ; 
     margin-left: 31%;
     margin-right: 30%;
+}
+
+#CaptLobFF {
+    max-width: 50em;
+    max-height: 50em ; 
+    margin-left: 40%;
 }
 
 #LobbyFFImage {
