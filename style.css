@@ -67,16 +67,20 @@ tbody {
     margin-right: 30%;
 }
 
+footer {
+    text-align: center;
+}
+
 #Discord {
-    width: 20%; 
-    height: 20%;
+    max-width: 5%; 
+    max-height: 5%;
 }
 
 #Insta {
-    width: 20%; 
-    height: 20%;
+    max-width: 5%; 
+    max-height: 5%;
 }
 #Gmail {
-    width: 20%; 
-    height: 20%;
+    max-width: 5%; 
+    max-height: 5%;
 }
