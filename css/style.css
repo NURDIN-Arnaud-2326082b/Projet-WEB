@@ -124,3 +124,23 @@ footer {
 #para{
     color: black;
 }
+
+#tblgta {
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+    background-color: white;
+}
+
+#titre2{
+    color: black;
+}
+
+#para2{
+    color: black;
+}
+
+#gta {
+    max-width: 50em;
+    max-height: 50em ; 
+}
