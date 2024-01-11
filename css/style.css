@@ -1,5 +1,3 @@
-
-
 body{
     background-color: darkgray;
 }
@@ -26,21 +24,6 @@ ul{
     color : white;
 }
 
-table, td {
-    text-align: center;
-    border: 1px solid black; 
-}
-
-thead, tfoot {
-    background-color: darkgray;
-    color: white;
-}
-
-tbody {
-    background-color: darkgray;
-    color: white;
-}
-
 footer {
     text-align: center;
 }
@@ -53,7 +36,7 @@ footer {
 
 #RR table, td {
     text-align: center;
-    border: 2px solid black; 
+    border: 0px solid black; 
 }
 
 #RR thead, tfoot {
