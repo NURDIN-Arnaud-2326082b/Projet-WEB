@@ -1,3 +1,5 @@
+
+
 body{
     background-color: darkgray;
 }
@@ -26,12 +28,14 @@ ul{
 
 table, td {
     text-align: center;
-    border: 0px solid black; 
+    border: 1px solid black; 
 }
+
 thead, tfoot {
     background-color: darkgray;
     color: white;
 }
+
 tbody {
     background-color: darkgray;
     color: white;
@@ -47,21 +51,35 @@ footer {
     display: block;
 }
 
+#RR table, td {
+    text-align: center;
+    border: 2px solid black; 
+}
+
+#RR thead, tfoot {
+    background-color: darkgray;
+    color: white;
+}
+
+#RR tbody {
+    background-color: darkgray;
+    color: white;
+}
+
 #Festival{
-    background-image: url(FF/Festival.png);
+    background-image: url("../FF/Festival.png");
     background-size: cover;
 }
 
 #Lego{
-    background-image: url(LF/LegoWorld.png);
+    background-image: url("../LF/LegoWorld.png");
     background-size: 100%;
 }
 
 #Rocket{
-    background-image: url(RR/Rocket.png);
+    background-image: url("../RR/Rocket.png");
     background-size: cover;
 }
-
 #ImPre {
     max-width: 50em;
     max-height: 50em ; 
