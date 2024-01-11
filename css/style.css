@@ -107,13 +107,13 @@ footer {
 #tblftn {
     margin-left: auto;
     margin-right: auto;
-    border: 5px solid (--color-fg);
+    border: 5px solid black;
 }
 
 #tblgta {
     margin-left: auto;
     margin-right: auto;
-    border: 5px solid (--color-fg);
+    border: 5px solid black;
 }
 
 #gta {
