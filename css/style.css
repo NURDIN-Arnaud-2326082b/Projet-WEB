@@ -81,6 +81,14 @@ footer {
     margin-left: 31%;
     margin-right: 30%;
 }
+
+#LaPhoto{
+    max-width: 30em;
+    max-height: 60em;
+    margin-left: 38%;
+    text-align: center;
+}
+
 #Discord {
     max-width: 5%; 
     max-height: 5%;
@@ -90,7 +98,12 @@ footer {
     max-width: 5%; 
     max-height: 5%;
 }
+
 #Gmail {
     max-width: 5%; 
     max-height: 5%;
+}
+
+#AProposDeNous {
+    text-align: center;
 }
