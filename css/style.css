@@ -26,8 +26,10 @@ ul{
 
 table, td {
     text-align: center;
-    border: 0px solid black; 
+    background-color: white;
+    border: 0px solid; 
 }
+
 thead, tfoot {
     background-color: darkgray;
     color: white;
@@ -67,6 +69,7 @@ footer {
     max-height: 50em ; 
     margin-left: 31%;
     margin-right: 30%;
+    align-items: center ;
 }
 
 #CaptLobFF {
