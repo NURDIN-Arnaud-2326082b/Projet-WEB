@@ -28,6 +28,62 @@ footer {
     display: block;
 }
 
+.container1{
+    box-shadow: 0px 10px 50px black;
+    display: block;
+    justify-content: center;
+    background-color:rgba(133, 138, 143, 0.801);
+    border-radius: 2%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.container1::after{
+  display:block;
+  clear:both;
+  content:"";
+}
+
+.container2{
+    box-shadow: 0px 10px 50px black;
+    display: block;
+    justify-content: center;
+    background-color:rgba(133, 138, 143, 0.801);
+    border-radius: 3%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.container2::after{
+  display:block;
+  clear:both;
+  content:"";
+}
+.containerIndex{
+    box-shadow: 0px 10px 50px black;
+    display: block;
+    justify-content: center;
+    background-color:rgba(26, 26, 26, 0.479);
+    border-radius: 3%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.containerIndex::after{
+  display:block;
+  clear:both;
+  content:"";
+}
+
 #RR table, td {
     text-align: center;
     border: 1px solid black; 
@@ -63,8 +119,8 @@ footer {
 }
 
 #CaptLobFF {
-    max-width: 60em;
-    max-height: 60em ; 
+    max-width: 100%;
+    max-height: 100% ; 
 }
 
 #oui {
@@ -107,13 +163,13 @@ footer {
 #tblftn {
     margin-left: auto;
     margin-right: auto;
-    border: 5px solid black;
+    border: 0px solid black;
 }
 
 #tblgta {
     margin-left: auto;
     margin-right: auto;
-    border: 5px solid black;
+    border: 0px solid black;
 }
 
 #gta {
