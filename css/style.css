@@ -36,16 +36,16 @@ footer {
 
 #RR table, td {
     text-align: center;
-    border: 0px solid black; 
+    border: 1px solid black; 
 }
 
 #RR thead, tfoot {
-    background-color: darkgray;
+    background-color: rgb(108, 108, 108);
     color: white;
 }
 
 #RR tbody {
-    background-color: darkgray;
+    background-color: gray;
     color: white;
 }
 
@@ -71,16 +71,19 @@ footer {
 }
 
 #CaptLobFF {
-    max-width: 50em;
-    max-height: 50em ; 
-    margin-left: 40%;
+    max-width: 60em;
+    max-height: 60em ; 
+}
+
+#oui {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #LobbyFFImage {
     max-width: 65em;
     max-height: 115em; 
     margin-left: 31%;
-    margin-right: 30%;
 }
 
 #LaPhoto{
