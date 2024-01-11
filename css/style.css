@@ -50,7 +50,7 @@ footer {
 
 #Lego{
     background-image: url("../LF/LegoWorld.png");
-    background-size: 100%;
+    background-size: cover;
 }
 
 #Rocket{
