@@ -1,27 +1,27 @@
 body{
-    background-color: darkgray;
+    background-color: white;
 }
 
 p {
-    color : white;
+    color : black;
 }
 
 h1{
-    color: white;
+    color: black;
     text-align: center;
     font-size: 50px;
 }
 
 h2{
-    color : white;
+    color : black;
 }
 
 h3{
-    color : white;
+    color : black;
 }
 
 ul{
-    color : white;
+    color : black;
 }
 
 footer {
@@ -117,27 +117,11 @@ footer {
     background-color: white;
 }
 
-#titre{
-    color: black;
-}
-
-#para{
-    color: black;
-}
-
 #tblgta {
     margin-left: auto;
     margin-right: auto;
     border: 5px solid black;
     background-color: white;
-}
-
-#titre2{
-    color: black;
-}
-
-#para2{
-    color: black;
 }
 
 #gta {
