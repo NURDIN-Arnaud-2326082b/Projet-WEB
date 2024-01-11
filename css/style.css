@@ -118,5 +118,10 @@ footer {
 
 #gta {
     max-width: 50em;
-    max-height: 50em ; 
+    max-height: 50em; 
+}
+
+#GTAimages {
+    max-width: 250px;
+    max-height: 250px; 
 }
