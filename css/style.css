@@ -12,12 +12,6 @@ footer {
     text-align: center;
 }
 
-.center {
-    margin: 0 auto;
-    width: 650px;
-    display: block;
-}
-
 .container1{
     box-shadow: 0px 10px 50px black;
     display: block;
