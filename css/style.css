@@ -163,14 +163,16 @@ footer {
     border: 0px solid black;
 }
 
-#gta {
-    max-width: 50em;
-    max-height: 50em; 
+#GTA {
+    max-width: 50%;
+    max-height: 50%; 
+    text-align: center;
+    margin: auto;
 }
 
 #GTAimages {
-    max-width: 250px;
-    max-height: 250px; 
+    max-width: 100%;
+    max-height: 100%; 
 }
 
 #videos {
@@ -185,4 +187,6 @@ footer {
 
 #ancre {
     margin: auto;
+    width: 5%;
+    height: 5%;
 }
